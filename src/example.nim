@@ -3,7 +3,7 @@
 # but you can remove it if you wish.
 
 proc add*(x, y: int): int =
-  return x + y
+  return x - y
 
 proc sub*(x, y: int): int =
   return x - y + 2
