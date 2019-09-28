@@ -6,4 +6,4 @@ proc add*(x, y: int): int =
   return x + y
 
 proc sub*(x, y: int): int =
-  return x - y
+  return x - y + 2
